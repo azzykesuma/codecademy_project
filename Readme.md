@@ -1,1 +1,1 @@
-this will be every project i have done in CodeAcademy, the project will mainly focus on Front end tech such as HTML, CSS and Javascript.
+the color_picker project is supposed to be a practice for using react component, importing and exporting js files, and adding attributes. there is supposed to be a buttton, when clicked changes the color of the background.
